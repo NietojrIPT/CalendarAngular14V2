@@ -102,5 +102,7 @@
       }
     }
   },
-  "defaultProject": "fullCalendaGoogleA14"
+  "cli": {
+    "analytics": "548fe873-64d2-42c9-83d0-65496263297c"
+  }
 }
